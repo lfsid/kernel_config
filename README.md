@@ -1,6 +1,8 @@
 # kernel_config
 
-all kernel config already patch with aufs patch and it for  x86_64 
+all kernel config for kernel has already patch with aufs patch and it for  x86_64 
+
+to use you must patch your kernel first
 
 to use for x86/32 bit unset 
   [] 64-bit kernel  
