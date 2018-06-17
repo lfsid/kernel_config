@@ -61,7 +61,7 @@ patch
    patch -Np1 -i ../file/patch/loction.patch
 
 note: 
-Never copy/remove aufs4-patch-folder/include/uapi/linux/Kbuild
+Never copy aufs4-patch-folder/include/uapi/linux/Kbuild
 
 
 1.
